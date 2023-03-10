@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065193297942",
+    "project_id": "way-3f667",
+    "storage_bucket": "way-3f667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065193297942:android:9664ab54a560da88257d37",
+        "android_client_info": {
+          "package_name": "com.example.a2way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065193297942-88a264qvivtfftun3jhjlfe5cssu2le6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvpC4Ym9qHKp1e22niYVCDAbviN9Y-eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065193297942-88a264qvivtfftun3jhjlfe5cssu2le6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
